@@ -1,2 +1,4 @@
 # HCI-virtual-human
-创建虚拟人，C+Unity实现
+创建虚拟人，在Unity平台上实现。
+vedioavatar是单纯的人物分割和在unity上展示人物
+avatar是实现人物关键关节捕捉和unity虚拟人的控制
